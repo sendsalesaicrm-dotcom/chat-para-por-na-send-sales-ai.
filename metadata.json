@@ -1,0 +1,5 @@
+{
+  "name": "Evolution Chat Messenger",
+  "description": "A professional chat interface connected to the Evolution API for sending WhatsApp messages via the Miguel instance.",
+  "requestFramePermissions": []
+}
